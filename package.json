@@ -1,0 +1,19 @@
+{
+  "name": "gardening-in-a-zip",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pt-spring-2021-final-projects/gardening-in-a-zip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pt-spring-2021-final-projects/gardening-in-a-zip/issues"
+  },
+  "homepage": "https://github.com/pt-spring-2021-final-projects/gardening-in-a-zip#readme"
+}
